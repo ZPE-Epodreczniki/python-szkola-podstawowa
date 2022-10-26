@@ -12,26 +12,23 @@ Podczas zapisu mogą się pojawić różne blokady - trzeba na nie zwracać uwag
 
 <img width="640" alt="Screenshot 2022-10-26 at 16 58 55" src="https://user-images.githubusercontent.com/5088643/198063971-0fcd1da6-0e6e-464c-bd4a-67387eb0161d.png">
 
-<img width="431" alt="Screenshot 2022-10-26 at 16 59 28" src="https://user-images.githubusercontent.com/5088643/198064066-bda2f0ec-cc96-49f3-bede-e9cf0c1caaea.png">
-
 <img width="634" alt="Screenshot 2022-10-26 at 16 59 43" src="https://user-images.githubusercontent.com/5088643/198064114-8324c2ea-fc35-4d0d-9d2f-cab34bfd2a89.png">
 
-Jeśli nie jesteś głównym użytkownikiem komputera, konieczne jest podanie jego loginu i hasła.
+2. Jeśli nie jesteś głównym użytkownikiem komputera, konieczne jest podanie jego loginu i hasła.
+
+<img width="641" alt="Screenshot 2022-10-26 at 17 00 26" src="https://user-images.githubusercontent.com/5088643/198066947-e3ac29bf-bc27-4187-8272-dae4501a4a0b.png">
 
 
-2. Opcje, które należy zaznaczyć w trakcie instalacji, i wybrać **„Customize instalation”**:
+3. Po instalacji możesz przenieść instalator do kosza, aby zaoszczędzić miejsce na dysku.
 
-
-
-W kolejnym oknie nic nie zmieniamy, wybieramy "NEXT"
-
-W ostatnim oknie zaznaczamy opcję **„Install for all users”** i zmieniamy lokalizację katalogu instalacyjnego:
-
+<img width="631" alt="Screenshot 2022-10-26 at 17 12 52" src="https://user-images.githubusercontent.com/5088643/198067234-7747ee6c-a469-4e3d-b2c8-fde4543b8f51.png">
 
 
 ## Po instalacji powinniśmy mieć dostępne środowisko IDLE.
 
+<img width="947" alt="Screenshot 2022-10-26 at 17 11 48" src="https://user-images.githubusercontent.com/5088643/198067348-0bf5a37a-9256-4134-9ee1-33c4ac691075.png">
 
+<img width="965" alt="Screenshot 2022-10-26 at 17 15 37" src="https://user-images.githubusercontent.com/5088643/198067304-150f5aca-8c95-45e7-a638-5dc84a085566.png">
 
 
 ----
