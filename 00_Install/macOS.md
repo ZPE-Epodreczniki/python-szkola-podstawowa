@@ -10,6 +10,15 @@
 
 Podczas zapisu mogą się pojawić różne blokady - trzeba na nie zwracać uwagę.
 
+<img width="640" alt="Screenshot 2022-10-26 at 16 58 55" src="https://user-images.githubusercontent.com/5088643/198063971-0fcd1da6-0e6e-464c-bd4a-67387eb0161d.png">
+
+<img width="431" alt="Screenshot 2022-10-26 at 16 59 28" src="https://user-images.githubusercontent.com/5088643/198064066-bda2f0ec-cc96-49f3-bede-e9cf0c1caaea.png">
+
+<img width="634" alt="Screenshot 2022-10-26 at 16 59 43" src="https://user-images.githubusercontent.com/5088643/198064114-8324c2ea-fc35-4d0d-9d2f-cab34bfd2a89.png">
+
+Jeśli nie jesteś głównym użytkownikiem komputera, konieczne jest podanie jego loginu i hasła.
+
+
 2. Opcje, które należy zaznaczyć w trakcie instalacji, i wybrać **„Customize instalation”**:
 
 
